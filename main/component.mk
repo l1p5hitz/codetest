@@ -1,7 +1,0 @@
-COMPONENT_ADD_INCLUDEDIRS += ./ \
-							./ZMOD4410 \
-							./ZMOD4410/lib
-
-
-COMPONENT_SRCDIRS += ./ZMOD4410 \
-							./ZMOD4410/lib
